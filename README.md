@@ -1,7 +1,6 @@
 ### Setup
 ```hash
 composer install
-php artisan jwt:secret
 php artisan migrate
 ```
 
